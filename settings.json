@@ -9,7 +9,7 @@
     "ip": "RuleLegendSMP.aternos.me"
     "port": 58655,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -22,7 +22,7 @@
       "enabled": true,
       "password": "chalol78"
     },
-    "anti-afk": {
+    "anti-afk": { 
       "enabled": true,
       "sneak": true
     },
